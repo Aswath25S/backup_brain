@@ -2,3 +2,13 @@ venv/
 test_2/.env
 test_2/.ipynb_checkpoints
 test_2/notebook
+test_3/.env
+test_3/.ipynb_checkpoints
+test_3/cache
+test_3/output
+test_3/notebook
+test_4/.env
+test_4/notebook
+test_4/.ipynb_checkpoints
+test_4/output
+test_4/cache
