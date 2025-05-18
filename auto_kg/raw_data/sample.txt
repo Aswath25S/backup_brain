@@ -1,0 +1,46 @@
+1. Sample Text Messages:
+-------------------------
+[2025-04-10 09:32] User: Hey, thinking of going to DC next weekend. Want to join?
+[2025-04-10 09:35] Friend: Sounds fun! What’s the plan?
+[2025-04-10 09:36] User: Leave Friday evening, spend Sat exploring the National Mall and museums. Maybe some night photography.
+[2025-04-10 21:14] User: Booked the hotel near Dupont Circle. Central and walkable!
+[2025-04-11 08:03] User: Can you remind me to pack camera batteries before the trip?
+
+2. To-Do List / Personal Notes:
+-------------------------------
+- Check weather forecast in DC  
+- Buy metro card for travel  
+- Pack Nikon camera + charger  
+- Add Smithsonian ticket to Apple Wallet  
+- Book dinner at Founding Farmers on Saturday  
+
+3. Calendar Entries:
+--------------------
+Title: DC Trip  
+Start: 2025-04-18 18:00  
+End: 2025-04-21 21:00  
+Location: Washington, D.C.  
+Description: Weekend trip to explore monuments and museums.  
+
+4. Photos (Metadata Only):
+--------------------------
+Filename: dc_night_whitehouse.jpg  
+Timestamp: 2025-04-19 20:41  
+Location: White House, Washington, D.C.  
+Tags: night, monument, trip  
+
+Filename: lincoln_memorial_day.jpg  
+Timestamp: 2025-04-20 10:17  
+Location: Lincoln Memorial, Washington, D.C.  
+Tags: morning, monument, trip  
+
+5. Assistant Interaction Examples:
+----------------------------------
+User: Remind me to charge the camera before the DC trip  
+Assistant: Created reminder for April 18 at 10:00 AM: 'Charge camera'  
+
+User: Show me the photos from DC trip not shared in messages  
+Assistant: Displaying 2 photos from DC trip: dc_night_whitehouse.jpg, lincoln_memorial_day.jpg  
+
+User: Did I already book dinner in DC?  
+Assistant: Yes, you planned dinner at Founding Farmers on Saturday at 7:00 PM.
