@@ -1,4 +1,4 @@
-# Backup Brain Project
+# backup_brain
 
 A comparative study for the best system for knowledge management and analysis for RAG applications. The end goal of the comparative study is to create a hyper personal AI assistants. The methods compared are llm based knowledge graph construction and vector database construction with multiple chunking strategies.
 
